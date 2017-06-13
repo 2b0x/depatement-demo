@@ -1,0 +1,24 @@
+.introduce{
+	padding: 10rem 0 0;
+}
+.direction ul li{
+	text-decoration: none;
+	display: inline-block;
+	float: left;
+	margin: 1rem 1rem 1rem 0; 
+}
+.direction h3{
+	margin: 0 0 2rem 1rem;
+}
+.direction-introduce{
+	background-color: rgba(255,255,255,1);
+	margin: 1rem;
+	padding: 1rem;
+	
+}
+.content,.content p{
+	font-size: 16px;
+}
+.martb1{
+	margin: 2rem 0 1rem;
+}

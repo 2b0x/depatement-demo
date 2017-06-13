@@ -1,0 +1,14 @@
+.read{
+	padding-top: 12rem;
+}
+.breadcrumb a{
+	cursor: default;
+}
+.breadcrumb a:hover{
+	text-decoration: none;
+}
+.cent{
+	display: inherit;
+	text-align: center;
+	margin: auto;
+}
